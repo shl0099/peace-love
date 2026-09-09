@@ -1,0 +1,26 @@
+========== Experiment Results ==========
+
+learning_rate = 0.001
+w = 3.015958
+b = 1.741714
+val_mse = 0.238580
+
+learning_rate = 0.01
+w = 3.019036
+b = 2.019501
+val_mse = 0.173990
+
+learning_rate = 0.1
+w = 3.019036
+b = 2.019501
+val_mse = 0.173990
+
+========== Best Model ==========
+best_lr = 0.01
+best_w = 3.019036
+best_b = 2.019501
+test_mse = 0.267037
+baseline_mse = 79.763052
+w_relative_error = 0.63%
+b_relative_error = 0.98%
+runtime = 0.046710 seconds
