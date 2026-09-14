@@ -1,0 +1,8 @@
+{
+    "seed": 1,
+    "data_seed": 42,
+    "lr": 0.01,
+    "epochs": 500,
+    "n_samples": 2000,
+    "framework": "numpy"
+}

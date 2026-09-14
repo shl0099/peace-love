@@ -1,0 +1,15 @@
+seed = 0
+lr = 0.2
+device = cpu
+output_dir = outputs/e3_fail_lr02
+initial w = 1.5409960746765137
+initial b = -0.293428897857666
+epoch=  0 train_loss=104.568260 val_loss=101.214691 w=6.4783 b=0.6207
+Traceback (most recent call last):
+  File "/home/shl0099/embodied_learning/week01/train.py", line 306, in <module>
+    main()
+    ~~~~^^
+  File "/home/shl0099/embodied_learning/week01/train.py", line 141, in main
+    assert torch.isfinite(w.grad).all()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+AssertionError

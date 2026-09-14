@@ -1,0 +1,10 @@
+{
+    "final_train_mse": 0.2453139465756736,
+    "final_val_mse": 0.2508588201029651,
+    "test_mse": 0.25434020533000967,
+    "baseline_test_mse": 75.83866032061336,
+    "final_w": 3.0036853341447376,
+    "final_b": 2.016919441796996,
+    "runtime_seconds": 0.008343228000740055,
+    "model_beats_baseline": true
+}

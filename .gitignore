@@ -5,3 +5,8 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# W01 temporary Linux practice logs
+all.log
+only_stdout.log
+train.log

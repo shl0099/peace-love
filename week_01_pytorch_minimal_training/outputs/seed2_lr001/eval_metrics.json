@@ -1,0 +1,6 @@
+{
+    "test_mse": 0.25433552265167236,
+    "baseline_test_mse": 75.83866882324219,
+    "reload_max_abs_diff": 0.0,
+    "model_beats_baseline": true
+}
