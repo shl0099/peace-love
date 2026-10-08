@@ -1,0 +1,10 @@
+PASS: good (Python=0, C++=0)
+PASS: bad_columns (Python=2, C++=2)
+PASS: bad_blank (Python=3, C++=3)
+PASS: bad_nan (Python=4, C++=4)
+PASS: bad_inf (Python=4, C++=4)
+PASS: bad_suffix (Python=5, C++=5)
+PASS: bad_trailing_comma (Python=2, C++=2)
+--------------------
+Passed: 7
+Failed: 0

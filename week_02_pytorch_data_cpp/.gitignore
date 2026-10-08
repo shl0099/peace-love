@@ -1,0 +1,8 @@
+# CMake build outputs
+cpp/build/
+
+# Manually compiled binary
+cpp/hello
+
+# Generated model checkpoints
+*.pt
